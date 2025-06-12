@@ -1,4 +1,4 @@
-# KCA University Assistant
+# Agentic School Assistant
 
 **Stop wasting time hunting for university information.** I built this because I was tired of digging through endless PDFs and emails just to find out when the trimester starts or what my graduation fees are.
 
@@ -6,7 +6,7 @@ This is a smart assistant that knows everything about KCA University - academic 
 
 ## Demo
 
-https://github.com/user-attachments/assets/your-demo-video-here
+[https://github.com/user-attachments/assets/your-demo-video-here](https://youtu.be/q19k_QpWpJ4)
 
 *Watch how easy it is to get instant answers about university information*
 

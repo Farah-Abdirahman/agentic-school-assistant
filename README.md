@@ -6,7 +6,7 @@ This is a smart assistant that knows everything about KCA University - academic 
 
 ## Demo
 
-[https://github.com/user-attachments/assets/your-demo-video-here](https://youtu.be/q19k_QpWpJ4)
+[![Watch the demo video](https://img.youtube.com/vi/q19k_QpWpJ4/0.jpg)](https://www.youtube.com/watch?v=q19k_QpWpJ4)
 
 *Watch how easy it is to get instant answers about university information*
 

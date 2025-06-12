@@ -1,0 +1,10 @@
+{
+  "title": "Notice to the Graduating Class of 2024",
+  "graduationFees": {
+    "Bachelor": 8000,
+    "PostGraduate": 8500,
+    "Doctoral": 10000
+  },
+  "clearanceDeadline": "2024-06-21",
+  "gownCollectionDates": ["2024-06-05", "2024-06-15"]
+}

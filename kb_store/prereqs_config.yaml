@@ -1,0 +1,46 @@
+# Configuration for Amazon Bedrock Knowledge Base
+
+# Basic Knowledge Base Configuration
+knowledge_base_name: 'schoolassistant'
+knowledge_base_description: 'School assistant knowledge base for academic information'
+kb_files_path: 'kb_files'
+
+# AWS Region Configuration
+region_name: 'us-east-1'
+
+# IAM Role and Policy Configuration
+iam_role_name: 'schoolassistant-kb-role'
+iam_policies:
+  - 'arn:aws:iam::aws:policy/AmazonBedrockFullAccess'
+  - 'arn:aws:iam::aws:policy/AmazonS3FullAccess'
+  - 'arn:aws:iam::aws:policy/AmazonOpenSearchServerlessAPIAccessAll'
+
+# S3 Configuration
+s3_bucket_name: 'schoolassistant-kb-bucket'
+s3_prefix: 'documents/'
+
+# OpenSearch Serverless Configuration
+opensearch_collection_name: 'schoolassistant-kb-collection'
+
+# Vector Index Configuration
+vector_index_name: 'bedrock-knowledge-base-default-index'
+vector_field_name: 'bedrock-knowledge-base-default-vector'
+text_field_name: 'AMAZON_BEDROCK_TEXT_CHUNK'
+metadata_field_name: 'AMAZON_BEDROCK_METADATA'
+
+# Data Source Configuration
+data_source_name: 'schoolassistant-data-source'
+
+# Security Policy Names 
+encryption_policy_name: 'schoolassistant-encrypt'
+network_policy_name: 'schoolassistant-network'
+data_access_policy_name: 'schoolassistant-access'
+
+# Bedrock Model Configuration
+embedding_model_arn: 'arn:aws:bedrock:us-east-1::foundation-model/amazon.titan-embed-text-v1'
+
+# Resource Tags
+tags:
+  Environment: 'development'
+  Project: 'schoolassistant'
+  ManagedBy: 'bedrock-kb-helper'

@@ -1,0 +1,14 @@
+{
+  "title": "KCA University 2025 Academic Calendar",
+  "year": 2025,
+  "events": [
+    { "event": "Start of January Trimester", "date": "2025-01-02" },
+    { "event": "Orientation for New Students", "date": "2025-01-06" },
+    { "event": "Deadline to Add/Drop Units", "date": "2025-01-20" },
+    { "event": "Final Trimester Exams Begin", "date": "2025-03-24" },
+    { "event": "Good Friday (Holiday)", "date": "2025-04-18" },
+    { "event": "Start of May Trimester", "date": "2025-05-02" },
+    { "event": "Madaraka Day (Holiday)", "date": "2025-06-01" },
+    { "event": "Deadline to Add/Drop Units", "date": "2025-05-23" }
+  ]
+}

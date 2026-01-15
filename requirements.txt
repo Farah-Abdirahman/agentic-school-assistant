@@ -10,3 +10,4 @@ strands-agents
 strands-agents-tools
 mcp
 awslabs-aws-documentation-mcp-server>=0.1.4
+streamlit

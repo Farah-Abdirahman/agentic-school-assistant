@@ -109,6 +109,16 @@ Student:
 
 That's it! Start asking questions.
 
+### Optional: Run the Web UI
+
+If you prefer a simple chat UI in your browser:
+
+```powershell
+streamlit run ui_app.py
+```
+
+Then open the URL shown in your terminal (usually http://localhost:8501).
+
 ---
 
 ## How to Use It
@@ -222,9 +232,11 @@ python deploy_kb.py --action status
 
 ```
 kca-university-assistant/
+├── ui_app.py                 # Streamlit web UI
 ├── main.py                    # The main assistant program
 ├── deploy_kb.py              # Sets up the knowledge base
 ├── kb_tools.py               # Core functionality
+├── assistant.py              # Shared agent configuration
 ├── requirements.txt          # Python packages needed
 ├── README.md                 # This file
 └── kb_store/

@@ -6,7 +6,7 @@ This is a smart assistant that knows everything about KCA University - academic 
 
 ## 🚀 Try It Out Now!
 
-**[Launch Live Demo →](https://kca-agentic-assistant.streamlit.app/)**
+**[Launch Live Demo →](https://kca-agent-assistant.streamlit.app/)**
 
 No installation required - just click and start asking questions about KCA University!
 

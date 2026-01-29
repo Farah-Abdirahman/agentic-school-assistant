@@ -1,0 +1,529 @@
+{
+  "title": "KCA University Student Handbook",
+  "university": "KCA University",
+  "website": "www.kca.ac.ke",
+  
+  "introduction": {
+    "vision": "To be recognized as a premier business university whose graduates competently and confidently serve the nation of Kenya, the East African region and the global community.",
+    "mission": "To offer high quality, integrated and market driven teaching, research and extension services in a safe and supportive academic environment.",
+    "philosophy": "It is the philosophy of the University that all human beings have a role to play in the society and that each person is uniquely endowed with the necessary abilities to fulfil their role.",
+    "coreValues": [
+      "Excellence - do it right first time",
+      "Integrity - carry out our business with honesty and openness",
+      "Diversity - no discrimination on the basis of ethnicity, gender, social, economic or religious backgrounds",
+      "Innovation - seek new ways of creating, sharing and applying knowledge; and continuous learning and improvement",
+      "Commitment - committed to understanding and meeting the needs of our students, faculty, alumni and partners",
+      "Service to the Community - interact with the community and participate in the development and implementation of solutions to community opportunities and problems",
+      "Recognition and support of individual talents - support individuals to make their own contributions"
+    ],
+    "historicalBackground": "KCA University dates back to 1989, with the establishment of the institution as Kenya College of Accountancy by the Institute of Certified Public Accountants of Kenya (ICPAK) charged with mandate to improve the quality of accountancy and financial management training in the country. Starting in rented premises in Westlands, the University's main campus is now on Thika Road at Ruaraka with enrollment of over 5,000 students annually."
+  },
+
+  "campusLocations": [
+    {
+      "name": "Main Campus",
+      "location": "Ruaraka off Thika Superhighway, Nairobi",
+      "contact": "0710 888 022 / 0715 532 187"
+    },
+    {
+      "name": "Kitengela Campus",
+      "location": "Capital Center, Kitengela",
+      "contact": "0710 888 022 / 0715 532 187"
+    },
+    {
+      "name": "Town Campus",
+      "location": "Monrovia Plaza, Monrovia Street Nairobi",
+      "contact": "0722 496 184 / 0726 806 340"
+    },
+    {
+      "name": "Kisumu Campus",
+      "location": "Mega Plaza, Kisumu",
+      "contact": "0720 169 799"
+    },
+    {
+      "name": "Amagoro Centre",
+      "location": "Amagoro, Busia",
+      "contact": "0731 245 860 / 0736 676 037"
+    }
+  ],
+
+  "campusLife": {
+    "studentWelfareServices": {
+      "description": "The Dean of students' Office co-ordinates all Students' welfare matters in the University, be they personal, academic, spiritual or social with the assistance of the Students Association of KCAU (SAKU).",
+      "location": "Student's Center Block E Room 11",
+      "sakuOfficeLocation": "Fifth floor of the Tuition complex"
+    },
+    "counsellingCenter": {
+      "description": "The counseling Centre promotes students' personal development, emotional and psychological well-being, in a professional and confidential setting.",
+      "services": [
+        "Individual and group counseling",
+        "Crisis intervention",
+        "Career counseling",
+        "Consultation with faculty",
+        "Life skills training",
+        "Peer counselors training",
+        "Referral services"
+      ],
+      "cost": "Free of charge in a confidential and non-judgmental manner"
+    },
+    "healthServices": {
+      "location": "Block K",
+      "services": [
+        "Treatment of minor ailments",
+        "Health talks for students",
+        "Mobile V.C.T clinics on monthly basis",
+        "Referrals for complicated cases to Avenue health care",
+        "Insurance policy for students injured through sporting activities"
+      ]
+    },
+    "cafeteria": {
+      "location": "Next to the tuition complex",
+      "paymentMethod": "Pay-as-you-eat basis",
+      "description": "Meals and soft drinks available at subsidized prices"
+    },
+    "accommodation": {
+      "description": "The University does not provide accommodation to students but has made arrangements with hostel owners and has a list from which students can select and make their own arrangements on the payment of the rent."
+    },
+    "transport": {
+      "description": "KCA University has buses that students use for activities including authorized trips, sporting and club events. Students interested in using the bus should pay for the vouchers using the standard payment procedure and pick them at the Administration Managers office in Block B."
+    },
+    "clubs": [
+      "Wildlife Club",
+      "Journalism Club",
+      "Peer Counselling Club",
+      "Chama Cha Kiswahili",
+      "Tech Club",
+      "Drama Club",
+      "Music Club",
+      "International Youth Fellowship (IYF) Club",
+      "St John's Ambulance"
+    ],
+    "religiousGroups": [
+      "Catholic Association",
+      "Christian union",
+      "Seventh Day Adventist",
+      "Muslim student association"
+    ],
+    "clubGuidelines": {
+      "registrationRequirement": "All societies and clubs must be registered with the Office of the Dean of students",
+      "minimumMembers": 15,
+      "patronRequirement": "Each society must have a member of staff (teaching or administrative) as a patron",
+      "registrationFee": "Maximum Kshs. 100",
+      "fundingSource": "Allocation from the SAKU fee and University approved fundraising"
+    },
+    "sports": [
+      "Football",
+      "Basketball",
+      "Rugby",
+      "Hockey",
+      "Volleyball",
+      "Karate",
+      "Tae Kwondo",
+      "Badminton",
+      "Table tennis",
+      "Lawn Tennis",
+      "Swimming"
+    ]
+  },
+
+  "saku": {
+    "fullName": "Student Association of KCA University",
+    "description": "An association comprising of all registered students and operates in accordance with the SAKU constitution and in compatibility with the philosophy and regulations of the University.",
+    "governance": "Governed by the SAKU Council which is an elected group of students' who represent the students' welfare to the Management",
+    "objectives": [
+      "Use lawful, proper and prudent means to ensure members' aspirations and interests realized",
+      "Promote students' welfare and safeguard students' rights and freedoms",
+      "Seek and undertake representation in organs of the University",
+      "Work in solidarity with other students' organizations",
+      "Enhance freedom of conscience, expression, association, and academic liberty",
+      "Encourage student academic research and development of artistic and professional talents",
+      "Improve student-lecturer relationship",
+      "Publish magazines and other publications",
+      "Nurture student's responsibility, leadership qualities and other talents",
+      "Develop positive attitude towards community through community service",
+      "Raise funds through legal and University approved means"
+    ]
+  },
+
+  "academicConduct": {
+    "academicCalendar": {
+      "yearStart": "September of each year",
+      "yearEnd": "August of the subsequent year",
+      "structure": "Three trimesters or two semesters each consisting of fifteen (15) weeks"
+    },
+    "admissions": {
+      "policy": "Applications are welcomed from students with excellent academic potential. Applications are considered without regard to ethnicity, nationality, disability, sexual orientation, gender, religious or political beliefs, marital status or socio-economic background.",
+      "requirement": "A student will be admitted into a programme if he or she meets the minimum entry requirements and subject to availability of space"
+    },
+    "registration": {
+      "newStudents": {
+        "requirements": [
+          "Present Admission letter as proof of admission",
+          "Complete KCAU registration form indicating subjects/units for the trimester",
+          "Submit unit registration forms at Registrar's office with proof of payment",
+          "Student ID card (Smart Card) issued upon filling card request form and proof of fee payment"
+        ],
+        "namePolicy": "Names shall be as they appear in application documents or National ID. No change in names will be effected after graduation."
+      },
+      "continuingStudents": {
+        "process": "Register online through Student Portal at www.kca.ac.ke",
+        "preRegistration": "Begins 4 weeks before commencement of new trimester/semester",
+        "addDropPeriod": "Within first 2 weeks of new trimester/semester",
+        "academicLeave": "Apply not later than week six if unable to register"
+      },
+      "deferredAdmission": {
+        "duration": "Maximum of three trimesters (one academic year)",
+        "academicLeave": "Maximum period of two academic years, one year at a time",
+        "deregistration": "Students who don't register for academic leave within required deadlines will be deregistered"
+      }
+    },
+    "creditTransferAndExemptions": {
+      "eligibility": "Students from other CUE recognized institutions may apply on credit transfer with testimonials of good standing",
+      "applicationTiming": "At the time of admission application",
+      "maximumCredits": "Cannot exceed 49% of programme requirements",
+      "fee": "A fee will be charged for each credit transferred except for KCAU graduates"
+    },
+    "modesOfStudy": [
+      {
+        "mode": "Full-time (Module I)",
+        "description": "Student attends scheduled day classes on regular basis"
+      },
+      {
+        "mode": "Part-time (Module II)",
+        "description": "Student attends scheduled evening classes regularly"
+      },
+      {
+        "mode": "Weekend (Module III)",
+        "description": "Student attends scheduled weekend classes regularly"
+      },
+      {
+        "mode": "Distance Learning (Module IV)",
+        "description": "Student guided through courses using online instructional materials, assignments, and tutorials"
+      }
+    ],
+    "classAttendance": {
+      "requirement": "Compulsory for all registered students",
+      "maximumAbsence": "Should not miss more than four weeks of expected trimester/semester",
+      "responsibility": "Every student must ensure their names appear on class registers and sign attendance register"
+    },
+    "courseProgression": {
+      "requirement": "Student may proceed to next level if progression rules are satisfied",
+      "restrictions": "Students with pending supplementary results, repeat units, or examination irregularity cases cannot proceed until cleared by University examination board"
+    },
+    "assessment": {
+      "components": [
+        "Tests",
+        "Assignments",
+        "Projects",
+        "Term papers",
+        "Practical work",
+        "Final examination at end of trimester/semester"
+      ],
+      "weightingNote": "Weighting for course work and final examination based on course regulations"
+    },
+    "examinations": {
+      "requirementsForPass": [
+        "Enrolled in accordance with Faculty enrolment regulations",
+        "Attended classes and instruction to satisfaction of Senate",
+        "Completed oral, practical, written or other tests/assignments",
+        "Completed final examination to satisfaction of examiners"
+      ],
+      "conductRules": {
+        "arrivalTime": "At least 15 minutes before examination starts",
+        "lateEntry": "No entry 30 minutes after commencement",
+        "earlyExit": "Cannot leave 30 minutes before end unless handing over scripts",
+        "communication": "No communication with other candidates during exam",
+        "materials": "Only authorized materials allowed",
+        "calculators": "Electronic, portable, self-powered, noiseless, non-programmable calculators allowed"
+      },
+      "examTypes": {
+        "openBook": "Candidates may take any written or printed materials including books",
+        "restrictedBook": "Only specified materials allowed, must not be annotated",
+        "restrictedBookWritten": "Specified materials may be annotated, written or typed upon"
+      },
+      "supplementaryExams": {
+        "eligibility": "Given to candidates who fail in accordance with curriculum",
+        "timing": "Done when next offered upon payment of requisite fees",
+        "failureConsequence": "Must repeat unit when next offered",
+        "progressionRule": "No student shall proceed with more than one pending repeat unit"
+      },
+      "specialExams": {
+        "admissibleReasons": [
+          "Bereavement of nuclear family member (grandparent, parent, child, spouse, sibling, legal guardian)",
+          "Sickness with doctor's letter and prescription",
+          "Traveling outside country for work (written notice 2 weeks before exam)",
+          "Registered fee defaulters"
+        ],
+        "inadmissibleReasons": [
+          "Misreading timetable",
+          "Lateness due to transport"
+        ],
+        "applicationDeadline": "Within two weeks after examinations",
+        "requirements": [
+          "Clear all fees for preceding semester",
+          "Done all CATs and assignments with 2/3 class attendance",
+          "Fill and get approval for Special Examination form"
+        ]
+      }
+    },
+    "examCards": {
+      "requirement": "All students required to have exam card before sitting examinations",
+      "availability": "Print from student portal if duly signed nominal roll and cleared financial obligations"
+    },
+    "appeals": {
+      "process": "Appeal in writing to Chairman of University Senate through HOD and Dean of Faculty",
+      "timeline": "Within two weeks after release of results",
+      "fee": "Non-refundable fee required before remarking",
+      "outcome": "Final grade after remark must be accepted whether higher or lower"
+    },
+    "graduation": {
+      "eligibility": [
+        "All programme requirements met",
+        "All financial obligations settled",
+        "Clearance from faculty on academic matters",
+        "Clearance from Student Finance on financial matters"
+      ],
+      "certificateCollection": "Encouraged to collect within one year, storage charges apply after expiry"
+    }
+  },
+
+  "library": {
+    "name": "Martin Oduor Otieno Library",
+    "description": "State of the art learning and research Centre with Iconic Pyramidal physical structure that can accommodate over 1500 users in single seating with integrated modern technologies for 21st century virtual library experience. Award winning library with several trophies won in Annual Maktaba Award events since 2011.",
+    "services": [
+      "Safe, comfortable and secure study environment",
+      "Reference and information services",
+      "Lending (loan) services",
+      "Current awareness services",
+      "Computer and wi-fi services",
+      "Off-campus services to E-books and E-Journals",
+      "Information literacy training",
+      "Past examination papers",
+      "80 hours per week accessibility"
+    ],
+    "hoursOfOperation": {
+      "mondayToFriday": "07:30am - 20:30pm",
+      "saturday": "08:00am - 18:00pm",
+      "sunday": "09:00am - 17:00pm",
+      "publicHolidays": "Closed"
+    },
+    "onlineLinks": {
+      "website": "https://www.kca.ac.ke/library",
+      "catalog": "http://41.89.49.249/",
+      "eResources": "https://eresources.kca.ac.ke/menu",
+      "pastPapers": "https://moodle.kca.ac.ke/login/index.php",
+      "repository": "http://41.89.49.13:8080/xmlui/",
+      "rulesAndRegulations": "https://www.kca.ac.ke/rules-and-regulations"
+    },
+    "contacts": {
+      "email": "library@kca.ac.ke",
+      "twitter": "https://twitter.com/KCALibrary",
+      "facebook": "https://www.facebook.com/Kcaulibrary/",
+      "telephone": "(020) 61803/8 or (020) 8561045"
+    }
+  },
+
+  "studentFinance": {
+    "feePaymentRequirements": {
+      "minimumPayment": "At least 50% of total fees at beginning of every trimester/semester",
+      "outstandingDebt": "Students with outstanding fees from previous trimester/semester shall not be allowed to register until cleared",
+      "creditManagementFee": "Charged on payments made by installments",
+      "interest": "Outstanding fees beyond 1 year will attract interest at university determined rate"
+    },
+    "paymentMethods": [
+      "Banker's cheques (payable to KCA University)",
+      "Bank Transfer",
+      "Debit Cards",
+      "Credit Cards",
+      "Money Orders",
+      "Mobile money transfers (M-Pesa)",
+      "Cash deposit slips"
+    ],
+    "bankAccounts": [
+      {
+        "bank": "Barclays Bank of Kenya",
+        "branch": "Westlands",
+        "accountNumber": "731352178"
+      },
+      {
+        "bank": "Barclays Bank of Kenya",
+        "branch": "Moi Avenue",
+        "accountNumber": "751766319"
+      },
+      {
+        "bank": "Commercial Bank of Africa",
+        "branch": "Wabera Street",
+        "accountNumber": "6432280015"
+      },
+      {
+        "bank": "Standard Chartered Bank",
+        "branch": "Ruaraka",
+        "accountNumber": "0102001171100"
+      },
+      {
+        "bank": "The Co-operative Bank of Kenya",
+        "branch": "Moi Avenue",
+        "accountNumber": "01129124444500"
+      }
+    ],
+    "financialAid": [
+      {
+        "type": "Work Study Program",
+        "description": "Financial aid based on student's financial need and possession of right skills",
+        "eligibility": "Full time students who meet set criteria, must be student for at least one semester",
+        "terms": "Maximum 20 hours per week, paid per hour, fully funded by requesting department",
+        "contact": "Student Affairs Office"
+      },
+      {
+        "type": "Chancellor's Scholarship",
+        "description": "For needy students who scored KCSE mean grade of A or A-",
+        "coverage": "Tuition fees only",
+        "contact": "Registrar's office"
+      },
+      {
+        "type": "Founders Scholarship",
+        "description": "Awarded on merit to bright but needy students aspiring for excellence",
+        "coverage": "Tuition fees for study period covered by scholarship",
+        "contact": "Alumni office"
+      },
+      {
+        "type": "SAKU Bursary",
+        "description": "Financial assistance for needy students",
+        "maximum": "Kshs. 5000",
+        "contact": "Student leaders' office"
+      }
+    ],
+    "examClearance": {
+      "requirement": "All candidates required to have financial clearance by Student Finance office before taking University examinations",
+      "form": "Duly signed and stamped examination card",
+      "authority": "Only Director of Finance or DVC Finance Planning & Administration can authorize exceptions"
+    },
+    "discounts": {
+      "application": "Apply on tuition fees only, granted on trimester/semester basis",
+      "limitation": "Only one category of discount per student",
+      "timing": "Can only be claimed within the trimester",
+      "contact": "Student Finance offices in respective campuses"
+    },
+    "studentIDCard": {
+      "issuance": "Issued on reporting day for new students",
+      "activation": "Upon payment of fees to access University facilities",
+      "requirement": "Must be carried at all times while in University",
+      "ownership": "Remains property of university, must be surrendered upon course end",
+      "replacement": "Lost, defaced or damaged cards must be replaced immediately at prescribed fee",
+      "exchange": "Strictly prohibited, will result in disciplinary action"
+    },
+    "cardCareTips": [
+      "Point card at readers, don't press against readers",
+      "Don't carry in back pocket",
+      "Keep away from direct sunlight or heat",
+      "Don't subject to brutal force",
+      "Don't use as ruler",
+      "Don't store close to electromagnetic sources like cell phones",
+      "Don't laminate",
+      "Don't puncture or staple",
+      "Carry in plastic pouch"
+    ],
+    "financialClearance": {
+      "purpose": [
+        "Collection of transcripts and certificates",
+        "Letters of completion",
+        "Letters of recommendation",
+        "Withdrawal from program",
+        "Graduation"
+      ]
+    },
+    "refunds": {
+      "circumstances": [
+        "Death",
+        "Incapacitation (insanity)",
+        "Discontinuation of studies by Faculty",
+        "Non-qualification for course"
+      ],
+      "recipient": "Only to sponsor, parent or guardian paying fees",
+      "method": "By cheque after written request approval",
+      "sponsorFunds": "Funds from CDF, HELB, Ministry of Education cannot be refunded to student, only to sponsor",
+      "administrationFee": "10% charged on refundable amount"
+    }
+  },
+
+  "officeLocations": {
+    "blockB": [
+      "Main reception",
+      "Vice Chancellor office",
+      "Deputy Vice Chancellor office",
+      "Chief Finance & Operations Office",
+      "Human Resource Department",
+      "Internal Audit",
+      "Corporate Affairs and Communications",
+      "ICAD",
+      "Procurement and Administration",
+      "Legal office",
+      "Management Accounts"
+    ],
+    "blockC": [
+      "Welcome Centre",
+      "Enrollment",
+      "Credit Control",
+      "ICT",
+      "Main Hall",
+      "Cashier"
+    ],
+    "blockD": [
+      "Accounts Payables",
+      "Security Office"
+    ],
+    "blockE": [
+      "Student Center",
+      "Student Affairs Office"
+    ],
+    "blockF": [
+      "Recreational Centre"
+    ],
+    "blockG": [
+      "Lecture rooms"
+    ],
+    "blockH": [
+      "Lecture rooms"
+    ],
+    "blockI": [
+      "Computer lab"
+    ],
+    "blockJ": [
+      "Computer lab"
+    ],
+    "blockK": [
+      "Exams Office",
+      "Registrar Office",
+      "Clinic",
+      "Counseling Room"
+    ],
+    "tuitionComplex": [
+      "Computer Labs",
+      "Quality Assurance",
+      "School of Professional Programmes",
+      "Faculty of Computing and Information Management",
+      "School of Post Graduate Studies and Research Extension",
+      "Faculty of Education",
+      "School of Business and Public Management",
+      "SAKU Office"
+    ],
+    "martinOduorOtienoBuilding": [
+      "Library Reception (Borrow/return books)",
+      "Chief and Deputy Librarian's offices",
+      "Study area",
+      "Research and Extension office",
+      "Dean School of Graduate Studies office",
+      "E-Library centre"
+    ]
+  },
+
+  "contactInformation": {
+    "postalAddress": "P.O. Box 56808 - 00200 Nairobi, Kenya",
+    "email": "registrar@kca.ac.ke",
+    "generalContact": "0710 888 022 / 0715 532 187",
+    "socialMedia": {
+      "facebook": "@KCAUniversityOfficial",
+      "twitter": "@kcauniversity"
+    }
+  }
+}

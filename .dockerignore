@@ -1,0 +1,19 @@
+__pycache__
+*.pyc
+.git
+.gitignore
+.env
+.venv
+venv
+*.egg-info
+dist
+build
+.DS_Store
+__pycache__
+.pytest_cache
+.coverage
+*.log
+.vscode
+.idea
+node_modules
+kb_store/kb_files  # Optional: if files are large

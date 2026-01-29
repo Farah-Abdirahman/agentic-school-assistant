@@ -4,6 +4,12 @@
 
 This is a smart assistant that knows everything about KCA University - academic calendars, policies, graduation requirements, fees, and more. Just ask it questions naturally, like you would ask a friend who works in the academic office.
 
+## 🚀 Try It Out Now!
+
+**[Launch Live Demo →](https://kca-agentic-assistant.streamlit.app/)**
+
+No installation required - just click and start asking questions about KCA University!
+
 ## Demo
 
 [![Watch the demo video](https://img.youtube.com/vi/q19k_QpWpJ4/0.jpg)](https://www.youtube.com/watch?v=q19k_QpWpJ4)

@@ -10,13 +10,6 @@ This is a smart assistant that knows everything about KCA University - academic 
 
 No installation required - just click and start asking questions about KCA University!
 
-## Demo
-
-[![Watch the demo video](https://img.youtube.com/vi/q19k_QpWpJ4/0.jpg)](https://www.youtube.com/watch?v=q19k_QpWpJ4)
-
-*Watch how easy it is to get instant answers about university information*
-
----
 
 ## Why I Built This
 
